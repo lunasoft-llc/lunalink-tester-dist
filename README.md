@@ -6,11 +6,11 @@ This is the public distribution repository for **LunaLink™ Tester**, a diagnos
 
 Download the latest pre-compiled binary for Windows x64:
 
-- **[LunaLinkTester-v1.0.17-Setup.exe](https://github.com/lunasoft-llc/lunalink-tester-dist/releases/download/v1.0.17/LunaLinkTester-v1.0.17-Setup.exe)** (Windows Installer)
+- **[LunaLinkTester-v1.0.18-Setup.exe](https://github.com/lunasoft-llc/lunalink-tester-dist/releases/download/v1.0.18/LunaLinkTester-v1.0.18-Setup.exe)** (Windows Installer)
 
 ## Release Information
 
-- **Version**: 1.0.17
+- **Version**: 1.0.18
 - **Release Date**: 2026-09-28
 - **Protocol version**: v1
 - **Developer**: [LunaSoft.az](https://lunasoft.az)
